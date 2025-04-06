@@ -21,7 +21,3 @@ I first added my own student profile to link to my own playlist, I was unable to
 my playlist. I realized when I entered my profile information, it was linking to another student. I had set my 
 profile number to the other students instead of creating a new profile login number. After I corrected this, 
 my whole program ran correctly.
-
-## **Repository Link**
-
-- [Original Jukebox Link](https://bitbucket.org/gshaykhian/jukebox/src/master/)
